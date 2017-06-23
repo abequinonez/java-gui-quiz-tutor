@@ -1,0 +1,30 @@
+A variable's name is its
+identifier
+constant
+data type
+base
+In Java, 7/3 evaluates to
+2
+2.33
+3
+Error, does not compile
+In Java, the % symbol refers to
+the modulus operator
+division
+percentages
+data storage
+Array index numbers always start at
+0
+1
+2
+-1
+What is a method?
+a sequence of instructions
+a container
+a type of number
+a type of variable
+The output of a method is the
+return value
+argument
+parameter
+largest value
